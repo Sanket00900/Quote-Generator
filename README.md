@@ -1,6 +1,6 @@
 # Quote Generator🌟
 
-Generate Awesome Quotes and Tweet them on your Twitter Hnadle 😉
+Generate Awesome Quotes and Tweet them on your Twitter Handle 😉
 
 
 **Try it here 👉🏼 https://quote-gererator.netlify.app/**
